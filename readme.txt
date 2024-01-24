@@ -13,4 +13,6 @@ This portfolio is curated to exhibit a comprehensive skill set, aiming to meet a
 Thank you for considering my application.
 
 
-Update (24 Jan 2024): An ongoing commitment to relevancy and excellence is reflected in the scheduled portfolio refresh. On this date, older projects will be removed, and the portfolio will undergo a comprehensive reconstruction. This is part of maintaining a live portfolio that consistently represents my most current skills and accomplishments.
+Update (24 Jan 2024): An ongoing commitment to relevancy and excellence is reflected in the scheduled portfolio refresh. 
+On this date, older projects will be removed, and the portfolio will undergo a comprehensive reconstruction. 
+This is part of maintaining a live portfolio that consistently represents my most current skills and accomplishments.
