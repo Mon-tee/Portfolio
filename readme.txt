@@ -1,4 +1,4 @@
-<h1> Portfolio Overview </h1>
+Portfolio Overview
 
 Welcome to my portfolio! As a Data Analyst/Data Scientist seeking employment, 
 this portfolio is designed to demonstrate my proficiency in Data Science and Data Analytics. 
