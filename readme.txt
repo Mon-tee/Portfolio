@@ -5,9 +5,9 @@ this portfolio is designed to demonstrate my proficiency in Data Science and Dat
 
 Key highlights include:
 
-Core Skills: Profound expertise in Python and SQL for robust data analysis and science tasks.
-Data Visualization: Advanced proficiency in Tableau and Power BI for insightful data presentation and storytelling.
-Additional Languages: Competence in C, R, and Java, showcasing versatility in programming.
++ Core Skills: Profound expertise in Python and SQL for robust data analysis and science tasks.
++ Data Visualization: Advanced proficiency in Tableau and Power BI for insightful data presentation and storytelling.
++ Additional Languages: Competence in C, R, and Java, showcasing versatility in programming.
 
 This portfolio is curated to exhibit a comprehensive skill set, aiming to meet and exceed the demands of the Data Analyst/Data Scientist role. 
 Thank you for considering my application.
