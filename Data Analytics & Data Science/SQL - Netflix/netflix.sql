@@ -1,40 +1,66 @@
 -- Count the Total Number of Users: Write a SQL query to count the total number of users in the database.
-SELECT *
-FROM `new_schema`.`netflix_userbase`;
+SELECT 
+	*
+FROM 
+	`new_schema`.`netflix_userbase`;
 
 -- Calculate Average Age of Users: Find the average age of all users.
-SELECT Country, AVG(Age) as Average_Age
-FROM `new_schema`.`netflix_userbase` 
-GROUP BY Country
-ORDER BY Country;
+SELECT 
+	Country, 
+	AVG(Age) as Average_Age
+FROM 
+	`new_schema`.`netflix_userbase` 
+GROUP BY 
+	Country
+ORDER BY 
+	Country;
 
-SELECT Device, AVG(Age) as Average_Age
-FROM `new_schema`.`netflix_userbase` 
-GROUP BY Device
-ORDER BY Device;
+SELECT 
+	Device, 
+	AVG(Age) as Average_Age
+FROM 
+	`new_schema`.`netflix_userbase` 
+GROUP BY 
+	Device
+ORDER BY 
+	Device;
 
 -- List All Subscription Types: Get a distinct list of all subscription types available.
-SELECT DISTINCT(Device)
-FROM `new_schema`.`netflix_userbase` ;
+SELECT 
+	DISTINCT(Device)
+FROM 
+	`new_schema`.`netflix_userbase` ;
 
 -- Sum Monthly Revenue: Calculate the total monthly revenue from all users.
-SELECT SUM(`Monthly Revenue`) AS Total_Monthly_Revenue
-FROM `new_schema`.`netflix_userbase`;
+SELECT 
+	SUM(`Monthly Revenue`) AS Total_Monthly_Revenue
+FROM 
+	`new_schema`.`netflix_userbase`;
 
 -- Find Users with Missing Data: Identify any users that have null or missing values in any of the critical columns like Monthly Revenue or Subscription Type.
-SELECT `User ID`, `Monthly Revenue`, `Subscription Type`
-FROM `new_schema`.`netflix_userbase`
-WHERE `Monthly Revenue` IS NULL
-OR `Monthly Revenue` = 0
-OR `Subscription Type` IS NULL;
+SELECT 
+	`User ID`, 
+	`Monthly Revenue`, 
+	`Subscription Type`
+FROM 
+	`new_schema`.`netflix_userbase`
+WHERE 
+	`Monthly Revenue` IS NULL
+OR 
+	`Monthly Revenue` = 0
+OR 
+	`Subscription Type` IS NULL;
 
 -- Device Usage Statistics: Determine the percentage of users using each type of device.
-SELECT Device, 
-COUNT(Device) * 100 / (SELECT COUNT(*) FROM `new_schema`.`netflix_userbase`) AS Percentage_of_users
-FROM `new_schema`.`netflix_userbase`
-GROUP BY Device
-ORDER BY Percentage_of_users;
- 
+SELECT 
+	Device, 
+	COUNT(Device) * 100 / (SELECT COUNT(*) FROM `new_schema`.`netflix_userbase`) AS Percentage_of_users
+FROM 
+	`new_schema`.`netflix_userbase`
+GROUP BY 
+	Device
+ORDER BY 
+	Percentage_of_users;
 
 -- Revenue Growth Month-over-Month: Calculate the percentage growth in revenue month-over-month.
 SELECT
