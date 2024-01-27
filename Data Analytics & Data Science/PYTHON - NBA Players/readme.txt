@@ -1,1 +1,5 @@
+This portfolio project is centered around a comprehensive analysis of an NBA dataset sourced from Kaggle, encompassing over two decades of data. The dataset provides a wealth of information about NBA players, including demographic variables such as age, height, weight, and place of birth. It also includes critical biographical details like the team they played for, draft year, and round, as well as essential box score statistics like games played, average points, rebounds, and assists.
 
+Throughout this project, I have leveraged my expertise and experience in data analysis to explore and interpret the dataset thoroughly. In addition to descriptive analysis, I have applied various analytical criteria that align with the methodologies used in my day-to-day work. Towards the project's culmination, I have employed advanced techniques, including ARIMA and LSTM modeling, to extract valuable insights and make predictive inferences.
+
+This portfolio project serves as a testament to my proficiency in data analysis and my ability to apply advanced techniques to real-world datasets, demonstrating my experience in this field.
