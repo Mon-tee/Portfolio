@@ -1,1 +1,1 @@
-
+This project is a testament to my proficiency in SQL, particularly emphasizing advanced techniques such as Common Table Expressions (CTE), view creation, and table structuring. It centers on analyzing and managing data related to Covid-19 deaths from 2020 to 2022, offering a comprehensive showcase of my ability to handle complex data scenarios effectively.
