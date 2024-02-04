@@ -3,3 +3,7 @@ This project serves as a showcase of my advanced SQL capabilities, with a focus 
 To further demonstrate these advanced techniques, I strategically divided my original CSV file into two separate files. This deliberate segmentation was implemented to provide a clearer platform for showcasing my skills in managing and manipulating data using more sophisticated SQL methods.
 
 Additionally, due to file size limits on GitHub (the file is larger than 25MB), I am unable to upload the original CSV file there. This limitation underscores the large-scale nature of the data involved in this project and the necessity for efficient data management and processing techniques.
+
+A live dashboard based on this data can be found here:
+
+https://public.tableau.com/app/profile/monti7025/viz/GlobalCovid-19Rates2020-2022/Dashboard2
