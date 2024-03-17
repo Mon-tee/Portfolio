@@ -14,6 +14,7 @@ pandas: For data handling and manipulation.
 matplotlib.pyplot: For creating visual representations of the data and analysis results.
 statsmodels.api: For performing the linear regression analysis.
 seaborn: To enhance the aesthetics of the plots.
+
 Dataset:
 
 The dataset from Kaggle includes two main variables: GPA (Grade Point Average of students) and SAT (SAT scores of students).
