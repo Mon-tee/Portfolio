@@ -1,5 +1,5 @@
 
-Simple Linear Regression: GPA vs. SAT Scores
+###Simple Linear Regression: GPA vs. SAT Scores
 This repository contains a simple linear regression analysis exploring the relationship between GPA and SAT scores. The data used in this project is sourced from a Kaggle dataset provided by luddarell.
 
 Overview
@@ -25,11 +25,6 @@ The analysis results, including the regression model summary and relevant plots,
 Usage
 To replicate this analysis or delve deeper into the dataset, clone the repository and run the Jupyter notebook. Ensure that you have all the required libraries installed. You can install the necessary libraries using the following command:
 
-bash
-Copy code
-pip install numpy pandas matplotlib statsmodels seaborn
-Contribution
-Contributions to enhance the analysis or extend the scope of the project are welcome. Feel free to fork the repository and submit your pull requests.
 
 Acknowledgments
 Special thanks to the dataset provider, luddarell, on Kaggle, for making the data publicly available for analysis. Also, a shoutout to HSF for the inspiration behind exploring the interrelation between GPA and SAT scores.
