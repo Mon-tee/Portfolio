@@ -1,5 +1,3 @@
-Time Series Forecasting of Housing Prices
-Overview
 This project presents a comprehensive approach to forecasting housing prices using time series data. It demonstrates the application of both naive and sophisticated Recurrent Neural Network (RNN) models, specifically focusing on data pertaining to housing prices in Florida.
 
 Data Description
