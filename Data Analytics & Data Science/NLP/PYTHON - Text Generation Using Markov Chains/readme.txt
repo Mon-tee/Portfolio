@@ -18,7 +18,7 @@ Run the script: python text_generator.py (ensure you have the correct script nam
 Follow the on-screen prompts to choose the order of the Markov chain and start generating text.
 
 Files Included
-text_generator.py: The main Python script containing the logic for text generation.
+text_generator.ipynb: The main Python script containing the logic for text generation.
 README.md: Documentation file providing an overview and setup instructions.
 
 Future Work
